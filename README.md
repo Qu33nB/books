@@ -1,4 +1,9 @@
-# books
-A whole lotta books
+#GOLD
 
-P.S. Please be sure to buy a physical book from the authors when you get done using a book and get a job. Or just send them a donation when you get enough money.
+All versions of the official JavaScript docs
+
+https://www.ecma-international.org/publications/standards/Ecma-262-arch.htm
+
+All versions of the official Python docs
+
+https://docs.python.org/3/download.html
